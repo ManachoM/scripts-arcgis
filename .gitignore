@@ -1,0 +1,17 @@
+*.dbf
+*.cpg
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+./sde/*
+./sdetesting/*
+*.rar
+*.grd
+*.gdb
+*Puntos_Calientes/*.rar
+*.sde
+*.qix
+*.atx
+*.nc

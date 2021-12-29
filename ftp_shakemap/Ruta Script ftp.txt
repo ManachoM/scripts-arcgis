@@ -1,0 +1,1 @@
+./ftpmirror.py -q -l csn -p C5N.FcFm 10.213.19.171 shakemap c:\\sismologia
