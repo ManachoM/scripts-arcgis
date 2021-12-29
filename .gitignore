@@ -1,0 +1,16 @@
+*.sde
+*.cpg
+*.shx
+*.shp
+*.sbn
+*.sbx
+*.dbf
+*.prj
+*.qix
+*.gdb
+./sde/*
+./sdetesting/*
+*.rar
+*.atx
+*.qix
+*.nc
